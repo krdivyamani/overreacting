@@ -8,7 +8,8 @@ import CountVal from "./CountVal.jsx";
 import ObjUpdate from "./ObjUpdate.jsx";
 import ArrUpdate from "./ArrUpdate.jsx";
 import ArrObjUpdate from "./ArrObjUpdate.jsx";
+import CompUseEffect from "./CompUseEffect.jsx";
 
 export default function App() {
-  return <ArrObjUpdate />;
+  return <CompUseEffect />;
 }
