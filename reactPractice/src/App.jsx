@@ -5,7 +5,8 @@ import MyComponent from "./MyComponent.jsx";
 import ComponentOnChange from "./ComponentOnChange.jsx";
 import ColorPicker from "./ColorPicker.jsx";
 import CountVal from "./CountVal.jsx";
+import ObjUpdate from "./ObjUpdate.jsx";
 
 export default function App() {
-  return <CountVal />;
+  return <ObjUpdate />;
 }
