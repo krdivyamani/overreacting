@@ -6,7 +6,8 @@ import ComponentOnChange from "./ComponentOnChange.jsx";
 import ColorPicker from "./ColorPicker.jsx";
 import CountVal from "./CountVal.jsx";
 import ObjUpdate from "./ObjUpdate.jsx";
+import ArrUpdate from "./ArrUpdate.jsx";
 
 export default function App() {
-  return <ObjUpdate />;
+  return <ArrUpdate />;
 }
